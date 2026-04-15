@@ -1,0 +1,4 @@
+1. Image preprocessing (noise reduction, illumination correction)
+2. Feature extraction (autoencoder)
+3. Anomaly detection using reconstruction error
+4. Defect localization via heatmap visualization
